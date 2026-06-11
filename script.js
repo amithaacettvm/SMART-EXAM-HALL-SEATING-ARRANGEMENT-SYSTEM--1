@@ -196,6 +196,9 @@ function generateLayout(){
     function printLayout(){
 
     window.print();
+        function printLayout() {
+    alert("Print button clicked!");
+}
 
 }
 }
