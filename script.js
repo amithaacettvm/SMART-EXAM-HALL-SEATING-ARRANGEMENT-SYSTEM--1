@@ -193,4 +193,9 @@ function generateLayout(){
 
         classroom.appendChild(rowDiv);
     }
+    function printLayout(){
+
+    window.print();
+
+}
 }
