@@ -193,12 +193,12 @@ function generateLayout(){
 
         classroom.appendChild(rowDiv);
     }
-    function printLayout(){
+    
+        
+
+}
+}
+function printLayout(){
 
     window.print();
-        function printLayout() {
-    alert("Print button clicked!");
-}
-
-}
 }
